@@ -1,0 +1,12 @@
+admin
+1. generate qr and unique id for books, so can be scanned or typed in manually for borrowing or returning or inventory
+2. whenever book catalogue is accessed and book is borrowed and returned, insert into db to have analytics
+3. analytics dashboard
+4. borrow page
+5. return page
+6. catalogue page
+
+user
+1. catalogue page
+2. borrowed page
+3. profile page

@@ -1,0 +1,8 @@
+server
+    npm install tedious => sql server (ga jadi pake)
+    npm install cors => cors issue with react
+    npm install mssql => sql server
+
+client
+    npm install react-bootstrap bootstrap
+    npm install react-icons --save
