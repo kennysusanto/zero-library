@@ -1,2 +1,2 @@
-# zero-library
-fun project to learn ReactJS and ExpressJS
+# zero-library-expressjs
+fun project to learn ExpressJS
