@@ -10,8 +10,10 @@ const port = process.env.PORT || 5000;
 var config = {
     user: 'user1',
     password: 'user1',
-    server: 'DESKTOP-BJD0ECI',
-    database: 'ExpressJS',
+    // server: 'DESKTOP-BJD0ECI',
+    // database: 'ExpressJS',
+    server: 'ASUS_ZENBOOK',
+    database: 'Kenny',
     synchronize: true,
     trustServerCertificate: true,
 };
